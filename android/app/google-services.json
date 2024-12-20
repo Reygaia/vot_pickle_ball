@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089396595354",
+    "project_id": "vot-pickle-ball",
+    "storage_bucket": "vot-pickle-ball.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089396595354:android:143cc90d2d0dcdb234dd23",
+        "android_client_info": {
+          "package_name": "pickcleball.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8WAJLtUDN05GPZnQjimv9ohpdSPtwNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
